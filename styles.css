@@ -124,7 +124,6 @@ form {
 #forecast {
     display: flex;
     flex-direction: row;        
-    justify-content: space-evenly; 
     align-items: center;        
     flex-wrap: nowrap;          
     width: 30em;      
